@@ -169,6 +169,20 @@
 			<key>displayName</key>
 			<string>Ignore anchor point</string>
 		</dict>
+		<dict>
+			<key>type</key>
+			<string>Check</string>
+			<key>name</key>
+			<string>hitTest</string>
+			<key>displayName</key>
+			<string>Hit Test</string>
+			<key>default</key>
+			<true/>
+			<key>defaultSerialization</key>
+			<true/>
+			<key>dontSetInEditor</key>
+			<true/>
+		</dict>
 	</array>
 	<key>propertiesOverridden</key>
 	<array/>
