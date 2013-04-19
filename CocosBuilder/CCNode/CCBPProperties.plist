@@ -25,7 +25,7 @@
 			<key>dontSetInEditor</key>
 			<true/>
 			<key>displayName</key>
-			<string>CCNode</string>
+			<string>DisplayObject</string>
 			<key>name</key>
 			<string>CCNode</string>
 		</dict>

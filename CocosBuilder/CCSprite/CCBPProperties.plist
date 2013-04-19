@@ -36,7 +36,7 @@
 	<array>
 		<dict>
 			<key>displayName</key>
-			<string>CCSprite</string>
+			<string>Sprite</string>
 			<key>name</key>
 			<string>CCSprite</string>
 			<key>type</key>

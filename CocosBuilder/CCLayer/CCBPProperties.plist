@@ -14,7 +14,7 @@
 	<array>
 		<dict>
 			<key>displayName</key>
-			<string>CCLayer</string>
+			<string>Layer</string>
 			<key>name</key>
 			<string>CCLayer</string>
 			<key>type</key>
