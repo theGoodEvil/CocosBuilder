@@ -36,6 +36,20 @@
 			<key>name</key>
 			<string>touchEnabled</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>parallax</string>
+			<key>displayName</key>
+			<string>Parallax</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>default</key>
+			<integer>1</integer>
+			<key>defaultSerialization</key>
+			<real>1</real>
+			<key>dontSetInEditor</key>
+			<true/>
+		</dict>
 	</array>
 	<key>editorClassName</key>
 	<string>CCLayer</string>
