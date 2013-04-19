@@ -197,6 +197,20 @@
 			<key>name</key>
 			<string>physicsEnabled</string>
 		</dict>
+		<dict>
+			<key>defaultSerialization</key>
+			<integer>1</integer>
+			<key>default</key>
+			<integer>1</integer>
+			<key>dontSetInEditor</key>
+			<true/>
+			<key>displayName</key>
+			<string>Required Difficulty</string>
+			<key>type</key>
+			<string>Integer</string>
+			<key>name</key>
+			<string>requiredDifficulty</string>
+		</dict>
 	</array>
 	<key>propertiesOverridden</key>
 	<array/>
