@@ -118,6 +118,20 @@
 			<key>name</key>
 			<string>blendFunc</string>
 		</dict>
+		<dict>
+			<key>defaultSerialization</key>
+			<string>DYNAMIC</string>
+			<key>default</key>
+			<string>DYNAMIC</string>
+			<key>dontSetInEditor</key>
+			<true/>
+			<key>displayName</key>
+			<string>Physics Body Type</string>
+			<key>type</key>
+			<string>String</string>
+			<key>name</key>
+			<string>physicsBodyType</string>
+		</dict>
 	</array>
 </dict>
 </plist>
