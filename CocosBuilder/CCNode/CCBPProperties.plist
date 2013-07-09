@@ -137,31 +137,6 @@
 			<string>RotationY</string>
 		</dict>
 		<dict>
-			<key>animatable</key>
-			<true/>
-			<key>defaultSerialization</key>
-			<array>
-				<integer>0</integer>
-				<integer>0</integer>
-			</array>
-			<key>type</key>
-			<string>FloatXY</string>
-			<key>name</key>
-			<string>skew</string>
-			<key>displayName</key>
-			<string>Skew</string>
-		</dict>
-		<dict>
-			<key>defaultSerialization</key>
-			<integer>-1</integer>
-			<key>type</key>
-			<string>Integer</string>
-			<key>name</key>
-			<string>tag</string>
-			<key>displayName</key>
-			<string>Tag</string>
-		</dict>
-		<dict>
 			<key>type</key>
 			<string>Check</string>
 			<key>name</key>
